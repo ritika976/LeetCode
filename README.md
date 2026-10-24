@@ -19,6 +19,7 @@
 ## Math
 |  |
 | ------- |
+| [2409-count-days-spent-together](https://github.com/ritika976/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3886-sum-of-sortable-integers](https://github.com/ritika976/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Enumeration
 |  |
@@ -27,5 +28,6 @@
 ## String
 |  |
 | ------- |
+| [2409-count-days-spent-together](https://github.com/ritika976/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ritika976/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 <!---LeetCode Topics End-->
