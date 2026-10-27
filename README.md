@@ -47,4 +47,12 @@
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ritika976/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ritika976/LeetCode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ritika976/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
