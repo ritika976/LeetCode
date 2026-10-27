@@ -29,6 +29,7 @@
 ## String
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/ritika976/LeetCode/tree/master/0402-remove-k-digits) |
 | [2409-count-days-spent-together](https://github.com/ritika976/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ritika976/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Depth-First Search
@@ -51,8 +52,17 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ritika976/LeetCode/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/ritika976/LeetCode/tree/master/0402-remove-k-digits) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ritika976/LeetCode/tree/master/0155-min-stack) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/ritika976/LeetCode/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/ritika976/LeetCode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
