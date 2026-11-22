@@ -36,6 +36,7 @@
 | [0058-length-of-last-word](https://github.com/ritika976/LeetCode/tree/master/0058-length-of-last-word) |
 | [0402-remove-k-digits](https://github.com/ritika976/LeetCode/tree/master/0402-remove-k-digits) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ritika976/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/ritika976/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/ritika976/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ritika976/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ritika976/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
